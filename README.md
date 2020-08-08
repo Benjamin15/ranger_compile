@@ -9,7 +9,7 @@ L'application vient avec deux interfaces graphiques. L'une permet de customiser 
 ## Installation:
 
 - Ouvrir un **powershell en admin**
-- Lancer la commande `python setup.py install`
+- Lancer la commande `python -m pip install -e .`
 
 
 ## Utilisation
