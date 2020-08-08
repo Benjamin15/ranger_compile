@@ -1,0 +1,34 @@
+{
+    "comics": {
+        "path": "C:\\Users\\Benjamin\\Documents\\comics",
+        "priority": -1
+    },
+    "comics_cbr": {
+        "path": "C:\\Users\\Benjamin\\Documents\\comics",
+        "priority": 0
+    },
+    "comics_cbz": {
+        "path": "C:\\Users\\Benjamin\\Documents\\comics",
+        "priority": 0
+    },
+    "cv": {
+        "path": "./cv",
+        "priority": 2
+    },
+    "document": {
+        "path": "C:\\Users\\Benjamin\\Documents",
+        "priority": 0
+    },
+    "franceska": {
+        "path": "./Franceska",
+        "priority": 1
+    },
+    "music": {
+        "path": "C:\\Users\\Benjamin\\Music",
+        "priority": 0
+    },
+    "video": {
+        "path": "C:\\Users\\Benjamin\\Videos",
+        "priority": 0
+    }
+}

@@ -1,0 +1,8 @@
+pytest 
+iptcinfo3
+mutagen
+moviepy
+tqdm
+PySide2
+qdarkstyle
+pyinstaller
